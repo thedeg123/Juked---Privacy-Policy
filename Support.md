@@ -1,5 +1,5 @@
-* Support *
+*Support
 
-** email **
+**email
 
-*** juked.app.1@gmail.com ***
+***juked.app.1@gmail.com ***
